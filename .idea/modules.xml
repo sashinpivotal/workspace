@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab01.1-extra/Lab01.1-extra.iml" filepath="$PROJECT_DIR$/Lab01.1-extra/Lab01.1-extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab02.2/Lab02.2.iml" filepath="$PROJECT_DIR$/Lab02.2/Lab02.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab08.1/Lab08.1.iml" filepath="$PROJECT_DIR$/Lab08.1/Lab08.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab08.2/Lab08.2.iml" filepath="$PROJECT_DIR$/Lab08.2/Lab08.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab03.1/MiniLab03.1.iml" filepath="$PROJECT_DIR$/MiniLab03.1/MiniLab03.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab08.1/MiniLab08.1.iml" filepath="$PROJECT_DIR$/MiniLab08.1/MiniLab08.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhiteboardModule/WhiteboardModule.iml" filepath="$PROJECT_DIR$/WhiteboardModule/WhiteboardModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace.iml" filepath="$PROJECT_DIR$/workspace.iml" />
+    </modules>
+  </component>
+</project>
